@@ -1,3 +1,8 @@
+:root{
+    --primary-color:#396c61;
+    --main:#fff;
+    --dark:#000;
+}
 *{
     margin: 0;
     padding: 0;
@@ -16,4 +21,10 @@ html{
 }
 body{
     font-family: 'Sen , sans-serif';
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
 }
